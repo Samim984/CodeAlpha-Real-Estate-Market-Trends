@@ -82,4 +82,4 @@ This project analyzes U.S. real estate data (2018–2023) to uncover pricing tre
 
 📬 Contact Me
 
-🔗 [LinkedIn](linkedin.com/in/samim-imtiaz-611a35273) – Samim Imtiaz
+🔗 [LinkedIn]([linkedin.com/in/samim-imtiaz-611a35273](https://www.linkedin.com/in/samim-imtiaz-611a35273?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0i%2BT4q4aRa6etnW%2BL9Iayg%3D%3D)) – Samim Imtiaz
